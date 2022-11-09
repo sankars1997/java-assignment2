@@ -1,4 +1,4 @@
-//6. Create a class Employee with fields Name, Emp ID, result and three assessment values (ass1,
+//6) Create a class Employee with fields Name, Emp ID, result and three assessment values (ass1,
 //        ass2 and ass3 (0-100)). If all the assessment values of the employee are above 75, then the
 //        result variable should be updated as "Promoted" else "Demoted". Also, calculate and display
 //        the total and percentage of the employee using functions.
